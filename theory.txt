@@ -1,0 +1,52 @@
+
+
+========if/else=====
+
+if(condition){
+    //Statement...
+}
+
+esle if(condition){
+    //Statement...
+}
+
+else{
+    //Statement...
+}
+
+80-100 = A+
+70-79  = A
+60-69  = A-
+50-59  = B
+40-49  = C
+33-39  = D
+1-32   = F
+
+
+50=Even
+67=Odd
+92=Even
+
+
+50/2 = Q-25 R-0 Even
+23/2 = Q-11 R-1 Odd
+10/2 = Q-5  R-0 Even
+51/2 = Q-25 R-1 Odd
+
++, -, *, /, %
+
+50/2 = 25
+50%2 = 0
+
+1. Write a Js program to check whether two numbers are equal or not.
+        let number1 = 654746;
+        let number2 = 8365784;
+
+2. Write a Js program to check whether a given number is positive or negative.
+        let number = 10;
+
+        -3, -2, -1, 0, 1, 2, 3
+
+3. Write a Js program to determine whether a person is eligible to cast his/her own vote according to the given age.
+      let age = 20;
+
